@@ -42,10 +42,28 @@ I had to make sure that I had the right firewall rules on pfsense. Hydra did not
 In this lab, we aimed to setup a Microsoft Windows and an Ubuntu instance. The running servers are at [here]() and [here](), but these will only be temporary addresses as AWS will change after it powers the instances off.
 
 ### Key elements of learning
-TBC
+I discovered there were three main AWS keys that I needed to use to properly access the CLI. I fixed this by using:
+
+```
+eee_W_7008910@172.31.10.67:~$ export AWS_CONFIG_FILE=myconfig
+eee_W_7008910@172.31.10.67:~$ nano myconfig 
+    <<paste your user credentials in the editor >>
+
+eee_W_7008910@172.31.10.67:~$ cat myconfig 
+[default]
+aws_access_key_id=ABBBUWYEY47O5FQCEWLA
+aws_secret_access_key=iLLLLLiGocWkg+W6XyS4HhnWDXzcBKkayS8LAtM
+
+eee_W_7008910@172.31.10.67:~$ aws ec2 describe-instances
+{
+    "Reservations": []
+}
+```
+
+
 
 ### Key difficulties
-TBC
+I found I had to open-up the ICMP port on the firewall to ping the running instances.
 
 
 
