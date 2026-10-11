@@ -1,6 +1,10 @@
 # My CSN09112 Lab and Coursework Page
 This is my page that outlines the CSN09112 labs and coursework, and outlines the labs completed and the development of the coursework.
 
+Name: Fred Smith
+
+Matriculation number: 12345678
+
 ## Lab 1: Network Architecture
 Within this lab [here](https://github.com/billbuchanan/csn09112/tree/master/week02_ids/lab), we were tasked with setting up the following network architecture:
 
