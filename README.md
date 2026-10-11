@@ -1,5 +1,5 @@
 # My CSN09112 Lab and Coursework Page
-This is an outline of the CSN09112 labs and coursework GitHub page, and outlines the labs completed and the development of the coursework.
+This is my page which outlines the CSN09112 labs and coursework, and outlines the labs completed and the development of the coursework.
 
 ## Lab 1: Network Architecture
 Within this lab, we were tasked at setting up the following network architecture:
