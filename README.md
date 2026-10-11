@@ -1,5 +1,5 @@
 # My CSN09112 Lab and Coursework Page
-This is my page which outlines the CSN09112 labs and coursework, and outlines the labs completed and the development of the coursework.
+This is my page that outlines the CSN09112 labs and coursework, and outlines the labs completed and the development of the coursework.
 
 ## Lab 1: Network Architecture
 Within this lab [here](https://github.com/billbuchanan/csn09112/tree/master/week02_ids/lab), we were tasked with setting up the following network architecture:
@@ -9,7 +9,7 @@ Within this lab [here](https://github.com/billbuchanan/csn09112/tree/master/week
 My running lab is [here](), and I completed all of the elements.
 
 ### Key elements of learning
-In this lab, I learned how to configure pfsense to enable traffic the DMZ. This included DNS (Port 53 UDP), HTTP (Port 80 TCP) and HTTPs (Port 443 TCS).
+In this lab, I learned how to configure pfSense to enable traffic on the DMZ. This included DNS (Port 53 UDP), HTTP (Port 80 TCP) and HTTPs (Port 443 TCP).
 
 ### Key difficulties
 I encounted difficulties related to Metasploit and Kali on the DMZ, and I solved these by re-applying the network settings. For the future, I will disable DHCP on the required interfaces.
