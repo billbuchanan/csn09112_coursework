@@ -39,7 +39,7 @@ I had to make sure that I had the right firewall rules on pfsense. Hydra did not
 
 
 ## Lab 3: AWS Architecture
-In this lab, we aimed to setup a Microsoft Windows and an Ubuntu instance. The running servers are at [here]() and [here](), but these will only be temporary addresses as AWS will change after it powers the instances off.
+In this lab [here](https://github.com/billbuchanan/csn09112/tree/master/week03_ns/labs), we aimed to set up a Microsoft Windows and an Ubuntu instance. The running servers are at [here]() and [here](), but these will only be temporary addresses as AWS will change after it powers the instances off.
 
 ### Key elements of learning
 I discovered there were three main AWS keys that I needed to use to properly access the CLI. I fixed this by using:
