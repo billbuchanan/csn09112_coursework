@@ -15,7 +15,7 @@ In this lab, I learned how to configure pfsense to enable traffic the DMZ. This 
 I encounted difficulties related to Metasploit and Kali on the DMZ, and I solved these by re-applying the network settings. For the future, I will disable DHCP on the required interfaces.
 
 ## Lab 2: Network Security
-Within this lab [here](https://github.com/billbuchanan/csn09112/tree/master/week03_ns/labs), we continued to use the architecture in Lab 1, and added in new elements of Penetration Testing, such as using Hydra, NMAP and Metasploit.
+Within this lab [here](https://github.com/billbuchanan/csn09112/tree/master/week03_ns/labs), we continued to use the architecture in Lab 1, and added new elements of Penetration Testing, such as using Hydra, NMAP and Metasploit.
 
 ### Key elements of learning
 I learnt that I had to open up the firewall port on the DMZ to allow Kali on the DMZ to nmap the Ubuntu machine on the Private network. The lab is running [here](). Once I had completed this, I could properly nmap and discover that FTP, HTTP and IPP were running:
