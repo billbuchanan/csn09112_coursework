@@ -2,7 +2,7 @@
 This is my page which outlines the CSN09112 labs and coursework, and outlines the labs completed and the development of the coursework.
 
 ## Lab 1: Network Architecture
-Within this lab, we were tasked at setting up the following network architecture:
+Within this lab [here](https://github.com/billbuchanan/csn09112/tree/master/week02_ids/lab), we were tasked with setting up the following network architecture:
 
 <img width="1810" height="981" alt="image" src="https://github.com/user-attachments/assets/1ba17022-ceb9-4870-b53e-02f4430d1691" />
 
