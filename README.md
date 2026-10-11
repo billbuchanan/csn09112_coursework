@@ -12,7 +12,7 @@ My running lab is [here](), and I completed all of the elements.
 In this lab, I learned how to configure pfsense to enable traffic the DMZ. This included DNS (Port 53 UDP), HTTP (Port 80 TCP) and HTTPs (Port 443 TCS).
 
 ### Key difficulties
-I encounted issues related to Metasploit and Kali on the DMZ, and I solved these by re-applying the network settings. For the future, I will disable DHCP on the required interfaces.
+I encounted difficulties related to Metasploit and Kali on the DMZ, and I solved these by re-applying the network settings. For the future, I will disable DHCP on the required interfaces.
 
 ## Lab 2: Network Security
 Within this lab, we continued to use the architecture in Lab 1, and added in new elements of Penetration Testing, such as using Hydra, NMAP and Metasploit.
