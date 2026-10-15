@@ -11,6 +11,9 @@ Within this lab [here](https://github.com/billbuchanan/csn09112/tree/master/week
 <img width="1810" height="981" alt="image" src="https://github.com/user-attachments/assets/1ba17022-ceb9-4870-b53e-02f4430d1691" />
 
 
+<img width="1810" height="981" alt="image" src="https://github.com/user-attachments/assets/f3602828-7669-4e2e-8066-0280d9b4af8b" />
+
+
 My running lab is [here](), and I completed all of the elements.
 
 ### Key elements of learning
